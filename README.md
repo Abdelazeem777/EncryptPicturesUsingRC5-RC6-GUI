@@ -9,4 +9,4 @@ A GUI encrypt and decrypt images using RC5&RC6 Algorithms.
 
 **A GIF for the program**
 
-<img src="./EncryptPicturesUsingRC5RC6.gif" width="500"/>
+<img src="./EncryptPicturesUsingRC5RC6.gif" width="800"/>
